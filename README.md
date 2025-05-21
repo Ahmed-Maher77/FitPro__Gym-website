@@ -42,14 +42,16 @@ FitPro is a modern, responsive web template crafted for fitness centers, persona
 ## 🌐 Watch Video on LinkedIn
 
 **coming soon**
-<!--🎥 [Watch Demo Video](https://www.linkedin.com/in/your-linkedin-profile)-->
+<!--**🎥 Watch Demo Video:** [Watch Demo Video](https://www.linkedin.com/in/your-linkedin-profile)-->
 
 ---
 
 ## 👀 Website Preview
 
 **coming soon**
-<!--![Website Preview](https://your-image-preview-link.com/preview.jpg)-->
+<!--<a href="website-url" title="demo">
+  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+</a>-->
 
 ---
 
